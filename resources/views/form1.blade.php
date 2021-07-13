@@ -11,7 +11,7 @@
                 <a href="" id="backbutton">メニューに戻る</a>
             </div>
         </header>
-        <hr id="bar">
+        <hr id="bar"
         <p id=hyodai><strong>オープンキャンパス　参加受付fsdafsad</strong></p>
 
         <table align="center">
