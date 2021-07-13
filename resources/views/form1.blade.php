@@ -24,7 +24,7 @@
               <input type="text" name="名前" maxlength="10" placeholder="名">
               </td>
                 <td>
-                    <strong>参加回数数数数数数数数数数：</strong>
+                    <strong>参加回数数数数数数数：</strong>
                     <select name="pull-down">
                         <option value="one">１回目</option>
                         <option value="two">２回目</option>
